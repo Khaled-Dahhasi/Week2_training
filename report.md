@@ -1,3 +1,6 @@
+
+
+
 **Training Schedule - Week 2**
 
 **Sunday:**
@@ -70,10 +73,10 @@ In summary, this shell script performs various tasks such as listing directories
   - /usr: Holds the majority of user-related data, including application files, libraries, and documentation.
   - /var: Contains variable data that frequently changes, such as log files, spool directories, and temporary files.
   
-- Completed assignment 2, which involved practical exercises on the "locate," "updatedb
-
-," "find," and "sort" commands:
+- Completed assignment 2, which involved practical exercises on the "locate," "updatedb ," "find," and "sort" commands:
+  
 **Wednesday Assignment 2 - Shell Script Explanation**
+**Spoiler warning for harry potter**
 
 Let's explain each task in the shell script provided:
 
